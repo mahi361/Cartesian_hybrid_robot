@@ -14,7 +14,7 @@ Hybrid robot design
 </h3>
 
 <p align="center">
-  <img src="https://github.com/mahi361/serpentine-robot-unmanned-mission-to-moon-and-mars/blob/main/Ros/concertina3D.gif" width="60%" />
+  <img src="https://github.com/mahi361/Cartesian_hybrid_robot/blob/main/git/cart.jpg"width="60%" />
 </p>
 
 <h3 align="center" style="color:#FF6347; font-size:17px;">
