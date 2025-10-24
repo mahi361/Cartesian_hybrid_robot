@@ -22,5 +22,5 @@ Controlling motor using klipper and octopus pro board
 </h3>
 
 <p align="center">
-  <img src="https://github.com/mahi361/serpentine-robot-unmanned-mission-to-moon-and-mars/blob/main/Aruco_marker/cam3.gif" width="60%" />
+  <img src="https://github.com/mahi361/Cartesian_hybrid_robot/blob/main/git/klipper_gif.gif" width="60%" />
 </p>
